@@ -5,7 +5,7 @@ All the main topics and algorithms are organized here in one place for easy stud
 
 ---
 
-## Topics Covered
+## Topics Covered in DSA
 
 - Arrays  
 - Linked Lists (Singly, Doubly, Circular)  
@@ -16,7 +16,7 @@ All the main topics and algorithms are organized here in one place for easy stud
 - Searching Algorithms (Linear Search, Binary Search)  
 - Dynamic Programming  
 - Greedy Algorithms  
-- Recursion and Backtracking  
+- Recursion and Backtracking  and many more
 
 ---
 
